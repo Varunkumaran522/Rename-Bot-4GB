@@ -3,10 +3,10 @@ import os
 
 
 # Required Variables Config
-API_ID = int(os.environ.get("API_ID", ""))
-API_HASH = os.environ.get("API_HASH", "")
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
-ADMIN = int(os.environ.get("ADMIN", ""))
+API_ID = int(os.environ.get("API_ID", "vk63692543"))
+API_HASH = os.environ.get("API_HASH", "bd7960c74ffdff6f8e84328aa7f2d7da")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8174304470:AAF49E9HNuPk7nMZnxU0EwPkDDNQSXvQEmc")
+ADMIN = int(os.environ.get("ADMIN", "6300548815"))
 
 
 # Premium 4GB Renaming Client Config
